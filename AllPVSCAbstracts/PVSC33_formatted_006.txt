@@ -1,0 +1,8 @@
+Author(s): Das, A.; Kim, D.S.; Meemongkolkiat, V.; Rohatgi, A.;
+Title: 19% efficient screen- printed cells using a passivated transparent boron back surface field
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922437
+Abstract: Boron back surface field is a promising replacement for the industry standard screen-printed Aluminum. However, the use of boron back surface fields is largely confined to laboratory scale solar cells. In order to increase its industrial applicability, we present a method for achieving a high quality boron back surface field using a cheap and safe boron source and short diffusion time. Metal contacts are fabricated using screen-printing, and degradation of rear passivation after contact firing is minimized through optimized screen-printing of local (point) contacts on the rear. On p-type silicon wafers, this process technology has been utilized to achieve, on 4 cm2 cells, efficiency of up to 19.1% with open-circuit voltage of 650 mV.
+Keywords: Aluminum;Boron;Laboratories;Lithography;Passivation;Photovoltaic cells;Production;Silicon;Temperature;Voltage;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922437&isnumber=4922425

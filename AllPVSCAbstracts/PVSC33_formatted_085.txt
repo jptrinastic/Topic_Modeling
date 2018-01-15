@@ -1,0 +1,8 @@
+Author(s): Moubayed, N.; Kouta, Janine; El-Ali, Ali; Dernayka, Hala; Outbib, Rachid;
+Title: Parameter identification of the lead-acid battery model
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922517
+Abstract: The lead-acid battery, although known since strong a long time, are today even studied in an intensive way because of their economic interest bound to their use in the automotive and the renewable energies sectors. In this paper, the principle of the lead-acid battery is presented. A simple, fast, and effective equivalent circuit model structure for lead-acid batteries was implemented. The identification of the parameters of the proposed lead-acid battery model is treated. This battery model is validated by simulation using the Matlab/Simulink Software.
+Keywords: Batteries;Chemicals;Circuit simulation;Electrodes;Energy storage;Lead compounds;Manufacturing;Mathematical model;Parameter estimation;Particle separators;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922517&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Bock, R.; Schmidt, J.; Brendel, R.; Schuhmann, Henning; Seibt, Michael;
+Title: Electron microscopy analysis of silicon islands and line structures formed on screen-printed Al-doped p+-surfaces
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922485
+Abstract: Islands and line networks of aluminum-doped p+ regions formed in a conventional screen-printing process are investigated by a combination of different techniques. To characterize the microscopic nature of the islands (lateral dimensions 1–3 μm) and line networks of self-assembled nanostructures (lateral dimension ≤ 50 nm) advanced transmission electron microscopy (TEM), scanning electron microscopy (SEM), scanning transmission electron microscopy (STEM) and energy dispersive X-ray analysis (EDX) are combined. Aluminum inclusions are detected 50 nm below the surface of the islands and crystallographic aluminum precipitates of ≪ 7 nm in diameter are found within the bulk of the islands. In addition, aluminum inclusions (lateral dimension ∼30 nm) are found within the bulk of the self-assembled line networks. Our findings provide clear experimental evidence that the concentration peak generally measured at the surface of screen-printed Al-p+ regions is due to the microscopic structures formed on the silicon surface during the firing process.
+Keywords: Aluminum;Artificial intelligence;Crystallization;Dispersion;Electron microscopy;Nanostructures;Photovoltaic cells;Scanning electron microscopy;Silicon;Transmission electron microscopy;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922485&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Kung-Yen Lee; Niu, J.-H.; Lin, G.-W.;
+Title: A simplified analog control circuit of a maximum power point tracker
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922515
+Abstract: This work proposes an analog maximum power point tracker (MPPT) control circuit for photovoltaic arrays. A clocked auto-oscillation method is used in this control circuit. This control principle is based on sensing the output current to achieve MPPT function. Multiplication of array voltage and current is not needed. The cost and volume of MPPT is reduced and MPPT efficiency is about 94%.
+Keywords: Analog integrated circuits;Batteries;Clocks;Control systems;Costs;Logic circuits;Photovoltaic systems;Solar power generation;Switches;Voltage;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922515&isnumber=4922425

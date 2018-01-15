@@ -1,0 +1,8 @@
+Author(s): Sauar, E.;
+Title: A path towards low-cost crystalline silicon PV
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922455
+Abstract: In 2005 REC developed its 5 year cost and technology roadmap for the manufacturing of photovoltaic modules based on multi crystalline silicon wafers. The roadmap estimated the combined cost impact of a new silicon manufacturing process, thinner wafers, thinner sawing wire, higher crystal quality, new cell process with higher cell efficiency as well as scale up, improved manufacturing equipment, continuous improvements in operation and automation of multiple process steps. Our conclusion was that the manufacturing cost of crystalline silicon PV modules could be reduced by almost 50% in 2010 compared to what we regarded as world class manufacturing cost in 2005 if all developments were successful. Current development status in 2008 indicates that the 2010 roadmap is reachable.
+Keywords: Continuous improvement;Costs;Crystallization;Manufacturing automation;Manufacturing processes;Photovoltaic systems;Sawing machines;Silicon;Solar power generation;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922455&isnumber=4922425

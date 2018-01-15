@@ -1,0 +1,8 @@
+Author(s): Mingirulli, N.; Driessen, Marion; Grote, Daniela; Biro, D.; Preu, Ralf;
+Title: Resistance analysis of wrapped through emitters
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922446
+Abstract: To analyze the via-hole emitter resistance two different test devices were designed consisting of symmetric n+pn+-structures whereas the emitter via-holes are ideally the only connection between the two emitter layers. The first device allows measuring the resistance of a single via hole. The second device features a plurality of via holes, in order to determine the resistance of 25…100 via-holes in parallel. Subtracting spreading resistance and geometry contributions with an analytical approach the via-hole resistance can be deduced from both methods. The presented approach reveals the series resistance contribution of the emitter via-hole independently of the complete solar cell device. Further it permits to test a variety of emitter formation processes, metallization schemes and damage etching or texturization steps regarding their specific series resistance contribution or the general feasibility of a process sequence respectively.
+Keywords: Contact resistance;Electrical resistance measurement;Etching;Geometrical optics;Joining processes;Metallization;Photovoltaic cells;Position measurement;Surface emitting lasers;Surface resistance;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922446&isnumber=4922425

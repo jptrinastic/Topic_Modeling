@@ -1,0 +1,8 @@
+Author(s): Tanabe, Katsuaki; Nakayama, Keisuke; Atwater, Harry A.;
+Title: Plasmon-enhanced absorption and photocurrent in ultrathin GaAs solar cells with metallic nanostructures
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922457
+Abstract: Metallic nanostructures can excite surface plasmons and can dramatically increase the optical path length in thin active photovoltaic layers to enhance overall photoabsorption. This effect has potential for cost and weight reduction with thinned layers and also for efficiency enhancement associated with increased carrier excitation level in the absorber layer.
+Keywords: Absorption;Gallium arsenide;Nanostructures;Photoconductivity;Photovoltaic cells;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922457&isnumber=4922425

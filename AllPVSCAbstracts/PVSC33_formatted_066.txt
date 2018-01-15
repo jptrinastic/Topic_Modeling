@@ -1,0 +1,8 @@
+Author(s): Kempe, M.D.; Terwilliger, K.M.; Tarrant, D.;
+Title: Stress induced degradation modes in CIGS mini-modules
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922497
+Abstract: The stability of monolithically integrated copper (indium, gallium) (selenium, sulfur) (CIGS) based thin film solar cells on glass were evaluated as a function of highly accelerated stress testing. Mini-modules exposed to high humidity (85°C and 85% RH) had a dominant failure mechanism involving increased resistance in the ZnO:Al transparent conducting oxide. Under Dry heat (85°C and 0% RH) performance loss was much slower and involved the weakening of diodes lowering Voc and loss of fill factor. These mini-modules were encapsulated using either ethylene vinyl-acetate (EVA) or a Silicone. It was found that encapsulation with EVA led to greater increases in series resistance. These experiments point to the importance of module packaging, transparent conducting oxide stability and cell integration in constructing durable CIGS modules.
+Keywords: Copper;Degradation;Gallium compounds;Glass;Indium;Life estimation;Photovoltaic cells;Stability;Stress;Transistors;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922497&isnumber=4922425

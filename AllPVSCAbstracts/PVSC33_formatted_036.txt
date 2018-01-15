@@ -1,0 +1,8 @@
+Author(s): Nakada, Tokio; Ishii, Yasuyuki; Hirata, Junya; Yagioka, Takeshi; Shirakata, Sho; Mise, Takahiro;
+Title: Impact of the LAD process on CIGS thin films and solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922467
+Abstract: We have developed a Laser-Assisted Deposition (LAD) process for improving the crystalline quality of CIGS thin films and cell performance. The VOC, FF and conversion efficiency improved by the LAD process for all CIGS devices with different Ga content. In particular the Voc improved remarkably for low Ga-content CIGS devices. In fact a high efficiency low-Ga CIGS thin film solar cell was achieved at substrate temperatures of 430 °C. The details of laser power and photon energy dependences of cell performance are also presented.
+Keywords: Costs;Etching;Fabrication;Geometry;Gold;Low voltage;Photovoltaic cells;Solid state circuits;Transistors;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922467&isnumber=4922425

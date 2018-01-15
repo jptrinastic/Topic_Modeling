@@ -1,0 +1,8 @@
+Author(s): Dubois, Sebastien; Martinuzzi, Santo;
+Title: Metal impurities in multicrystalline silicon solar cells: Comparison between fast and slow diffusers
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922481
+Abstract: We compare the influence of fast-diffusing and slow-diffusing metal-impurities on the performances of boron doped p-type multicrystalline silicon (mc-Si) solar cells. Solar cells were made from iron (Fe) (fast diffuser), and gold (Au) (slow diffuser), intentionally contaminated wafers. Performances of these cells were compared with those of uncontaminated cells. Fe appears to be rather well tolerated in mc-Si when the latter is used to make solar cells. This is mainly due to the efficacy of the gettering effect developed by the phosphorus diffusion and of the hydrogenation effect which follows the deposition of the antireflection coating. Gettering and hydrogen passivation work complementary in this kind of material. Via Au contamination, we showed the danger of a slow diffuser when a high density of extended defects is present, because there is a marked generation of recombination centres by means of the impurity-defect interaction. In this case gettering effects were limited and despite the efficacy of the hydrogenation effects, the cell performances were strongly affected. We propose solutions for reducing the effect of slow-diffusing metal impurities on the performances of mc-Si solar cells.
+Keywords: Boron;Coatings;Gettering;Gold;Hydrogen;Impurities;Iron;Passivation;Photovoltaic cells;Silicon;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922481&isnumber=4922425

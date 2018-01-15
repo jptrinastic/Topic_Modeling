@@ -1,0 +1,8 @@
+Author(s): Min Gu Kang,; Sung Ju Tark,; Jeong Chul Lee; Jeong Chul Lee,; Kyung Hoon Yoon; Jinsoo Song; Hee-jin Lim,; Donghwan Kim,;
+Title: Minority carrier lifetime of silicon wafer passivated by PECVD amorphous silicon layers for silicon heterojunction solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922525
+Abstract: Passivation is the one of important factors in the solar cells. The measurement of effectiveness of the passivation layer was based on quasi-steady-state photoconductance. In the case of the sample which was passivated using p-type amorphous silicon(a-Si:H), the minority carrier lifetime was 8.9μs. When the passivation layer was intrinsic a-Si:H, the minority carrier lifetime was 221.3μs. Considering the minority carrier lifetimes of both samples, silicon heterojunction solar cells were fabricated with and without intrinsic a-Si:H layer. the efficiency of the sample passivated with intrinsic amorphous silicon was 13.52%, whereas it was only 11.58% when this layer was not employed.
+Keywords: Amorphous silicon;Charge carrier lifetime;Frequency;Heterojunctions;Passivation;Photoconductivity;Photovoltaic cells;Photovoltaic systems;Plasma temperature;Solar power generation;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922525&isnumber=4922425

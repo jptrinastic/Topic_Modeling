@@ -1,0 +1,8 @@
+Author(s): Geisz, J.F.; Kurtz, S.R.; Wanlass, M.W.; Ward, J.S.; Duda, A.; Friedman, D.J.; Olson, J.M.; McMahon, W.E.; Moriarty, T.E.; Kiehl, J.T.; Romero, M.J.; Norman, A.G.; Jones, K.M.;
+Title: Inverted GaInP / (In)GaAs / InGaAs triple-junction solar cells with low-stress metamorphic bottom junctions
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922452
+Abstract: We demonstrate high efficiency performance in two ultra-thin, Ge-free III–V semiconductor triple-junction solar cell device designs grown in an inverted configuration. Low-stress metamorphic junctions were engineered to achieve excellent photovoltaic performance with less than 3 × 106 cm−2 threading dislocations. The first design with band gaps of 1.83/1.40/1.00 eV, containing a single metamorphic junction, achieved 33.8% and 39.2% efficiencies under the standard one-sun global spectrum and concentrated direct spectrum at 131 suns, respectively. The second design with band gaps of 1.83/1.34/0.89 eV, containing two metamorphic junctions achieved 33.2% and 40.1% efficiencies under the standard one-sun global spectrum and concentrated direct spectrum at 143 suns, respectively.
+Keywords: Indium gallium arsenide;Photonic band gap;Photovoltaic cells;Photovoltaic systems;Solar power generation;Sun;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922452&isnumber=4922425

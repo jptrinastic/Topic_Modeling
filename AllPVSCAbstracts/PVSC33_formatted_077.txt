@@ -1,0 +1,8 @@
+Author(s): Su-Huai Wei; Li, Jingbo; Yan, Y.;
+Title: Design of shallow p-type dopants in ZnO
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922508
+Abstract: Due to the large electronegativity of the oxygen, the ionization energies of acceptors in metal oxides such as ZnO is quite high, making p-type doping a great challenge for the full utilization of ZnO as optoelectronic materials. By analyzing the defect wavefunction characters, we propose several approaches to lower the acceptor ionization energy in ZnO by codoping acceptors with donor or isovalent atoms. We also proposed a universal approach to overcome the doping polarity problem for wide-band-gap semiconductors. This approach can reduce the ionization energies of dopants and the spontaneous compensation from intrinsic defects by effective doping of impurity bands, which can be achieved by introducing passive donor-acceptor complexes or isovalent impurities. The approaches described here for ZnO can be easily extended to other transparent conducting oxides used for solar cell applications.
+Keywords: Chemical elements;Electrons;Energy states;Ionization;Photovoltaic cells;Semiconductor device doping;Semiconductor impurities;Semiconductor materials;Solids;Zinc oxide;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922508&isnumber=4922425

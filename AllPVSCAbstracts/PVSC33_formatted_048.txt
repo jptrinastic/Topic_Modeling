@@ -1,0 +1,8 @@
+Author(s): Roth, Thomas; Rudiger, Marc; Trupke, T.; Glunz, S.W.;
+Title: Titanium-related defect levels in silicon analyzed by temperature-dependent photoluminescence lifetime spectroscopy
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922479
+Abstract: Temperature-dependent lifetime spectroscopy allows for the determination of defect parameters (like ratio of the carrier capture cross sections and energy level) of point-like defects in silicon. This necessitates reliable measurements of the low-level injection excess carrier lifetime. Photoluminescence-based measurement techniques have been shown to be ideal for this kind of measurements at room temperature, being immune to several measurement artifacts like minority carrier trapping or depletion region modulation. In this contribution it will be shown how the effect of photon reabsorption influences the temperature-dependent photoluminescence measurements and how this can be accounted for using a theoretical model based on the generalized Planck equation. An intentionally titanium-contaminated silicon sample is used to demonstrate this significant effect experimentally. Defect parameters of two independent recombination centers will be presented, which titanium introduces into the silicon band gap.
+Keywords: Charge carrier lifetime;Energy capture;Energy states;Equations;Measurement techniques;Photoluminescence;Silicon;Spectroscopy;Spontaneous emission;Temperature measurement;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922479&isnumber=4922425

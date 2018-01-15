@@ -1,0 +1,8 @@
+Author(s): Hanket, G.M.; Kamada, Rui; Woo Kyoung Kim; Shafarman, W.N.;
+Title: Effect of reaction temperature on Cu(InGa)(SeS)2 formation by a sequential H2Se/H2S precursor reaction process
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922470
+Abstract: The effect of sulfization temperature on Ga through-film uniformity in a 2-reaction H2Se/H2S precursor process for Cu(InGa)(SeS)2 was studied. Cu0.8Ga0.2/In bi-layer precursors were prepared by sputter deposition. The precursors were then partially selenized at 450 °C, followed by sulfization at temperatures ranging from 450 to 550 °C. The observed threshold temperature for Ga homogenization during sulfization was ∼500 °C. It is speculated that this threshold temperature possibly derives from a solid→liquid phase transition at 485 °C on the Ga-rich edge of the γ1-Cu9Ga4 phase region.
+Keywords: Costs;Etching;Fabrication;Geometry;Gold;Low voltage;Photovoltaic cells;Solid state circuits;Temperature;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922470&isnumber=4922425

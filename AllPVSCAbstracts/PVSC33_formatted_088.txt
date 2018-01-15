@@ -1,0 +1,8 @@
+Author(s): Xiesen Yang,; Xianbo Liao,; Wenhui Du,; Xinmin Cao,; Dinesh Attygalle,; Xianbi Xiang,; Nirupama Adiga,; Xunming Deng,;
+Title: Theoretical analysis and modeling of light trapping in a-Si based thin film solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922520
+Abstract: This paper analyses the light trapping effect and finds out that the light path enhancement factor of cells with an ideal Lambertian back reflector (BR) could be as high as n(n+1)2, instead of general quoted 4n2. The program PVOPTICS developed by NREL has been used to modeling the light trapping effect. It is found that 1) the texture angle is more critical than the texture height in determining the light trapping effect, but the latter of which was the only mentioned parameter in general light trapping designs; 2) Inserting a ZnO buffer layer can largely increase the Si absorption, while ZnO thickness does not affect the light trapping obviously, which were confirmed by experimental results; 3) Different impacts of texture starting from a-Si/ZnO or ZnO/metal interface on light trapping effects are studied. For ZnO/Al BR, the texture starting from the a-Si/ZnO interface will lead to a larger absorption in the Si layer; while for ZnO/Ag BR, the texture starting from the a-Si/ZnO interface or ZnO/Ag interface leads to similar results.
+Keywords: Absorption;Germanium alloys;Germanium silicon alloys;Light scattering;Optical reflection;Photovoltaic cells;Rough surfaces;Silicon germanium;Transistors;Zinc oxide;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922520&isnumber=4922425

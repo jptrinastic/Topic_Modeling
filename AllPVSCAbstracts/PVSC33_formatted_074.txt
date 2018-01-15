@@ -1,0 +1,8 @@
+Author(s): Kumar, Sanjai; Chilana, G.S.; Penubolu, Suri; Singh, P.K.;
+Title: Study of space charge potential in accepter doped multi-crystalline silicon wafer by Impedance Spectroscopy
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922505
+Abstract: Impedance Spectroscopy Technique (IST) has been employed for the average space charge potential and resistivity measurement at grain boundaries (GBs) in multi-crystalline silicon wafer's. It is found that IST is the most simple and accurate way to obtain space charge potentials developed at grain boundaries in semiconductor devices. In this work the individual and average grain GB measurement is carried out in mc-silicon wafers. For a single grain the impedance spectrum gives a single semicircle but over a GB the spectrum contains two semicircles.These semicircles can be fitted into two RC networks. The GBs potential is calculated by using the parameters resistance (R), capacitance(C) and relaxation frequency (f) obtained from the impedance spectrum. The effect of biasing and temperature on space charge potential obtained is calculated and found good agreements with theory.
+Keywords: Capacitance;Conductivity measurement;Electrical resistance measurement;Electrochemical impedance spectroscopy;Frequency;Grain boundaries;Semiconductor devices;Silicon;Space charge;Temperature;Grain boundaries;Impedance spectroscopy;mc-silicon;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922505&isnumber=4922425

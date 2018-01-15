@@ -1,0 +1,8 @@
+Author(s): Aronova, E.S.; Grilikhes, V.A.; Shvarts, M.Z.; Timoshina, N.H.;
+Title: On correct estimation of hourly power output of solar photovoltaic installations with MJ SCs and sunlight concentrators
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922518
+Abstract: This paper presents an approach to the correct calculation of the hourly power output of solar photovoltaic installations (SPVI) with multijunction solar cells (MJ SCs) and a sunlight concentrator. The MJ SC efficiency values variations depending on spectral compositions of incident sunlight have been considered. To take into account the effect of the changing SPVI efficiency value on the hourly installation power output calculated, the hourly and yearly sum totals of generated power have been determined. It was shown that the use of the constant efficiency values of MJ SC compared to variable ones leads to an erroneous overstating of the value of SPVI yearly generated power in the range from 6 to 12%, which may affect the correct choice of the optimal structure and parameters of an independent power supply system and its reliability in supplying power to a customer.
+Keywords: Atmosphere;Batteries;Emergency power supplies;Photovoltaic cells;Photovoltaic systems;Power generation;Power supplies;Power system reliability;Solar power generation;Solar radiation;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922518&isnumber=4922425

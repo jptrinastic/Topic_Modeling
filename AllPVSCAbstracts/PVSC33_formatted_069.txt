@@ -1,0 +1,8 @@
+Author(s): Emziane, M.; Halliday, D.P.; Durose, K.; Bosio, A.; Romeo, N.;
+Title: Ion implantation of the window and front contact layers and its effect on polycrystalline photovoltaic devices
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922500
+Abstract: Potential dopants sodium and chlorine ions were used to implant CdS window layers, and boron and lead ions were implanted into the transparent conducting oxide (TCO) layers that serve as front contact for CdTe/CdS solar cell devices grown on soda-lime glass substrates. The implantation doses were in the range 1014 to 1015 cm−2 and the peak concentration achieved was 1020 cm−3 for all the species implanted. The distribution of these species was investigated by secondary ion mass spectrometry (SIMS) in the entire device structures using a quantitative approach. The photovoltaic parameters measured on the resulting CdTe/CdS solar cells indicate that the device behaviour is primarily governed by the implantation-induced structural damage of the device structure layers.
+Keywords: Boron;Glass;Implants;Ion implantation;Lead compounds;Mass spectroscopy;Photovoltaic cells;Photovoltaic systems;Solar power generation;Windows;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922500&isnumber=4922425

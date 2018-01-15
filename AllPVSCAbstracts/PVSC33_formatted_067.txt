@@ -1,0 +1,8 @@
+Author(s): Olsen, Larry C.; Gross, Mark E.; Kundu, Sambhu N.; Shafarman, William N.;
+Title: Properties of encapsulated CIGS cells in 85°C/85%RH
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922498
+Abstract: This paper concerns studies of encapsulated cells subjected to an environment of 85°C and 85%RH (85/85). Cells are encapsulated with PNNL multi-layer coatings (referred to as PML coatings) utilizing alternating layers of Al2O3, and an advanced polymer. The new polymer has been determined to withstand the 85/85 environment. Two types of cells were used for these studies, namely, SSI mini-modules (which are actually CIGSS devices) and CIGS cells provided by the Institute of Energy Conversion (IEC). Cells were coated and stressed at 85/85 in an environmental chamber. Current-voltage characteristics were acquired before and after coating, and periodically after being subjected to the 85/85 environment. Whereas coated SSI modules were determined to last 1000 hours when stressed at 60°C/90%RH without degradation, the efficiency of these modules degrade to a level of 60% of the beginning-of-life value when stressed at 85/85. Encapsulated IEC cells, however, have exhibited extraordinary results. The efficiency of several encapsulated cells did not decrease for 1500 hours in an 85°C/85%RH environment. This results establishes a benchmark for stressed, encapsulated CIGS cells.
+Keywords: Building integrated photovoltaics;Coatings;Current-voltage characteristics;Degradation;Energy conversion;Humidity;IEC standards;Moisture;Polymer films;Substrates;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922498&isnumber=4922425

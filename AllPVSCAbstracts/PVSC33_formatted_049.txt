@@ -1,0 +1,8 @@
+Author(s): Khatri, H.; Walker, J.D.; Li, J.; Ranjan, V.; Khanal, R.R.; Collins, R.W.; Marsillac, S.;
+Title: In situ and ex situ characterization of molybdenum thin films
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922480
+Abstract: In situ and ex situ characterizations have been utilized in order to investigate the growth as well as the physical and chemical properties of molybdenum thin films deposited by radio frequency (rf) magnetron sputtering on soda-lime glass substrates. The effects of the deposition pressure on the nucleation and growth mechanisms that ultimately influence the films' morphology and grain structure have been studied. Correspondence between real time spectroscopic ellipsometry (RTSE), X-ray diffraction (XRD), atomic force microscopy (AFM), and four-point probe resistivity measurements indicate that increasing deposition pressures lead to smaller average grain sizes in the Mo thin films. RTSE, XRD, and resistivity measurements also indicate that increasing deposition pressures lead to increased void volume fraction in the films.
+Keywords: Atomic force microscopy;Chemicals;Conductivity measurement;Glass;Magnetic properties;Morphology;Radio frequency;Sputtering;Transistors;X-ray scattering;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922480&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Alonso-Alvarez, D.; Taboada, A.G.; Gonzalez, Y.; Ripalda, J.M.; Alen, B.; Gonzalez, L.; Garcia, Jorge M.; Briones, F.; Marti, A.; Luque, A.; Sanchez, A.M.; Molina, S.I.;
+Title: Stress compensation by GaP monolayers for stacked InAs/GaAs quantum dots solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922519
+Abstract: In this work we report the stacking of 10 and 50 InAs quantum dots layers using 2 monolayers of GaP for stress compensation and a stack period of 18 nm on GaAs (001) substrates. Very good structural and optical quality is found in both samples. Vertical alignment of the dots is observed by transmission electron microscopy suggesting the existence of residual stress around them. Photocurrent measurements show light absorption up to 1.2 μm in the nanostructures together with a reduction in the blue response of the device. As a result of the phosphorus incorporation in the barriers, a very high thermal activation energy (431 meV) has also been obtained for the quantum dot emission.
+Keywords: Absorption;Electron optics;Gallium arsenide;Nanostructures;Photoconductivity;Photovoltaic cells;Quantum dots;Residual stresses;Stacking;Transmission electron microscopy;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922519&isnumber=4922425

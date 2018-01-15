@@ -1,0 +1,8 @@
+Author(s): Yuan, Hao-Chih; Page, M.R.; Iwaniczko, E.; Xu, Yueqin; Roybal, L.; Qi Wang; Branz, Howard M.; Meier, D.L.;
+Title: Silicon solar cells with front hetero-contact and aluminum alloy back junction
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922449
+Abstract: We prototype an alternative n-type monocrystalline silicon (c-Si) solar cell structure that utilizes an n/i-type hydrogenated amorphous silicon (a-Si:H) front hetero-contact and a back p-n junction formed by alloying aluminum (Al) with the n-type Si wafer. Such a structure combines a conventional high-throughput Al-Si alloying process with excellent front surface passivation provided by a-Si:H. A key process consideration is to preserve the clean c-Si front surface through the high-temperature alloying, so there will be effective a-Si:H passivation. From cell simulations, we estimate a front SRV of 10–50 cm/sec has been achieved in our process. The best prototype 1×1 cm2 cell with planar front surface and single anti-reflection (AR) coating layer has demonstrated a confirmed conversion efficiency of 13.5%, Voc of 604.7 mV, and fill factor (FF) of 79.9%. Processes for further efficiency improvements are described.
+Keywords: Alloying;Aluminum alloys;Artificial intelligence;Chemical vapor deposition;Contacts;P-n junctions;Passivation;Photovoltaic cells;Silicon;Surface cleaning;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922449&isnumber=4922425

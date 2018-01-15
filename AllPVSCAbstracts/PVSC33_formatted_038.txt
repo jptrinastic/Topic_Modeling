@@ -1,0 +1,8 @@
+Author(s): Gessert, T.A.; Metzger, W.K.; Asher, S.E.; Young, M.R.; Johnston, S.; Dhere, R.G.; Moriarty, T.; Duda, A.;
+Title: Effects of Cu diffusion from ZnTe:Cu/Ti contacts on carrier lifetime of CdS/CdTe thin film solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922469
+Abstract: We study the performance of CdS/CdTe thin film PV devices processed with a ZnTe:Cu/Ti contact to investigate how carrier lifetime (τ) in the CdTe layer is affected by Cu diffusion from the contact. Time-resolved photoluminescence (TRPL) measurements show that τ decreases slightly as the contacting temperature increases in the temperature regime that produces “insufficient” Cu concentration in CdTe (∼room temperature to ∼250° C). However, τ increases significantly once the contact temperature is in the range that yields “optimum” Cu concentration and high-performance devices (∼280 to ∼320°C). At higher substrate temperatures (≫∼300° C), τ drops precipitously, consistent with a region previously identified as producing “excessive” Cu concentration - and poor device performance. The observed τ increase within the “optimum temperature” range not only suggests why high-performance devices may form at these contact temperatures using many different contact processes (including paste contacts), but may provide a significant clue as to why Cu-contact formation processes impart a broad latitude in other process parameters.
+Keywords: Charge carrier lifetime;Costs;Etching;Fabrication;Geometry;Gold;Photovoltaic cells;Solid state circuits;Transistors;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922469&isnumber=4922425

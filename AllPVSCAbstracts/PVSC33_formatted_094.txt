@@ -1,0 +1,8 @@
+Author(s): Sung Jin Kim,; Won Jin Kim,; Cartwright, Alexander N.; Raffaelle, Ryne P.; Prasad, Paras N.;
+Title: Self Passivating Hybrid (Organic/Inorganic) Tandem Solar Cell
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922526
+Abstract: An all solution processed tandem photovoltaic structure, consisting of a hydrazine treated PbSe nanocrystal photoconducting film and a P3HT/PCBM bulk heterojunction solar cell, was fabricated. The PbSe nanocrystal cell was use as the top (light incident from top) cell, and optimized in thickness, to absorb predominantly UV and short wavelength visible light. The lower P3HT/PCBM cell absorbed the remaining solar energy and supplied photocurrent as well as the necessary field to extract the photogenerated carriers from the PbSe device. Carrier multiplication resulting from multiple exciton generation in the PbSe film at UV wavelengths was quantified by using separate activation for the top cell and bottom cell with selective light biasing. Lifetime measurements of a standard P3HT/PCBM solar cell and the tandem structure wereperformed under AM 1.5 and UV enhanced illumination. The durability of the tandem cell under UV illumination was significantly better than the single layer bulk heterojunction cell.
+Keywords: Excitons;Heterojunctions;Lighting;Nanocrystals;Photoconductivity;Photovoltaic cells;Photovoltaic systems;Propellants;Solar energy;Solar power generation;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922526&isnumber=4922425

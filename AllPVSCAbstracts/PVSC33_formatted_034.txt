@@ -1,0 +1,8 @@
+Author(s): Kamada, Rui; Shafarman, William N.; Birkmire, Robert W.;
+Title: Cu(In,Ga)Se2 film formation from selenization of mixed metal/metal-selenide precursors
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922465
+Abstract: For Cu(In,Ga)Se2 films made by the selenization of metallic precursors, Ga accumulation at the back contact prevents the achievement of high voltage solar cells. In this work, selenization of mixed metal/metal-selenide precursors has been studied with respect to the composition distribution and device performance. Precursors consisting of Cu-Se/Ga/In and (In,Ga)-Se/Cu were reacted in H2Se at 450°C for 5, 15, and 90 minutes with metallic Cu0.8Ga0.2/In precursors as a control. Ga accumulation near the back contact in the selenized films was generally observed except for one precursor with a Cu-Se/Ga/In structure, which showed a hill-like Ga profile with the maximum Ga concentration in the middle of the film. Enhanced Ga incorporation into the Cu(In,Ga)Se2 is shown by XRD for the precursors made from electrochemically deposited copper-selenium and changes in the bandgap were observed in the device behaviors.
+Keywords: Costs;Etching;Fabrication;Geometry;Gold;Low voltage;Photovoltaic cells;Semiconductivity;Solid state circuits;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922465&isnumber=4922425

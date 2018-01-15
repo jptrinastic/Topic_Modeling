@@ -1,0 +1,8 @@
+Author(s): Borden, Peter; Li Xu,; McDougall, Brendan; Chang, C.P.; Tam, N.;
+Title: Rapid Thermal Oxide passivation using IC-grade processing
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922510
+Abstract: We report on Rapid Thermal Oxide (RTO) passivation films grown on both n- and p-type wafers using 300 mm IC tools, in order to determine state-of-the-art passivation performance with wafer-based silicon solar cell applications in mind. Films in the range of 1.2 to 15 nm were grown using Applied Materials' RadOx® process, a proprietary method employing hydrogen and oxygen radicals to enhance growth rate. Surface recombination velocities (SRVs) better than 30 cm/sec are reported for both substrate types. The 5 nm layers show the lowest SRV. These layers require process times on the order of 20 seconds. The results suggest that proper tool and process design may enable in-line oxide passivation with quality consistent with furnace-based systems and throughput consistent with high-volume solar cell manufacturing requirements.
+Keywords: Application specific integrated circuits;Hydrogen;Manufacturing processes;Passivation;Photovoltaic cells;Process design;Rapid thermal processing;Semiconductor films;Silicon;Throughput;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922510&isnumber=4922425

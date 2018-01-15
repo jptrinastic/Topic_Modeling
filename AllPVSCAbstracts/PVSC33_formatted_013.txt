@@ -1,0 +1,8 @@
+Author(s): Junge, J.; Kaes, M.; Groetschel, D.; Zuschlag, A.; Seren, S.; Hahn, G.; Metz, A.; Chan, B.T.; John, J.; Beaucarne, G.;
+Title: Advanced processing steps for high efficiency solar cells based on EFG material
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922444
+Abstract: In the past few years the quality of Edge-defined Film-fed Growth (EFG) material has strongly improved and can now compete with most standard multicrystalline materials. The maximum conversion efficiency of solar cells based on high quality EFG material is at the moment mostly limited by the applied solar cell processing steps. The state-of-the-art high efficiency process at the University of Konstanz (UKN) in combination with some additional processing steps is presented. The latter include hydrogen passivation of bulk defects, texturisation of the front surface by remote SF6 plasma (most samples shown here were textured at IMEC), surface passivation using a silicon oxide / silicon nitride stack and the application of Laser Fired Contacts (LFC). Single additional processing steps are investigated as well as various combinations of additional processing steps.
+Keywords: Artificial intelligence;Etching;Lithography;Passivation;Photovoltaic cells;Plasma applications;Plasma materials processing;Silicon;Surface emitting lasers;Surface texture;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922444&isnumber=4922425

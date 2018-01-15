@@ -1,0 +1,8 @@
+Author(s): Maruoka, Yasuto;
+Title: Method for determining cost-effectiveness and price of solar modules
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922529
+Abstract: This paper describes a method for selecting the most cost-effective solar module from amongst those on the retail photovoltaic market. The method has been derived from an empirical equation which clarifies the relationship between the maximal power of standard modules and surface area as well as module cost in the German, US, and Japanese markets. The power generating factor utilized in the dimensionless equation is of decisive importance in the economic assessment of modules. The greater this factor, the greater the cost-effectiveness of the module. Conversely, with the assumption that the power generating factor is a known value, it is possible to estimate either maximal power or surface area as well as probable list price reflecting market reality. The procedures used here are illustrated through tables and figures as well as a calculation example with actual market data.
+Keywords: Costs;Equations;Exchange rates;Manufacturing;Photovoltaic systems;Power generation;Power generation economics;Pricing;Solar power generation;System testing;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922529&isnumber=4922425

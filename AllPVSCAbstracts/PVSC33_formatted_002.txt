@@ -1,0 +1,8 @@
+Author(s): Shanmugam, Mariyappan; Mouw, Chris; Friedrichs, Daniel; Baroughi, M.Farrokh; Yan, Xingzhong; Galipeau, D.;
+Title: Design and fabrication of a new sol-gel based planar solar concentrator for cost effective photovoltaics
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922433
+Abstract: A planar concentrating solar cell based on a highly transparent sol-gel concentrator, metallic mirrors, and double sided PV devices is described. Highly transparent silica glasses, synthesized by sol-gel polymerization of tetraethylorthosilicate (TEOS), accompanied with an Ag back reflector were used for concentrating sunlight. By using TEOS, hydrochloric acid, ethanol, and water as the precursors for synthesizing sol-gel glass and optimizing the polymerization process, highly transparent glasses with absorption coefficients of as low as 0.1 cm−1 were obtained in a wide wavelength spectrum ranging from 350 nm – 1100 nm. The sol-gel material was cast into desired shape. The proposed planar solar cell was simulated using the data obtained from UV-Vis absorption measurements and it was shown that the proposed design is capable of reducing the area of PV devices up to 75%.
+Keywords: Absorption;Costs;Ethanol;Fabrication;Glass;Mirrors;Photovoltaic cells;Polymers;Shape;Silicon compounds;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922433&isnumber=4922425

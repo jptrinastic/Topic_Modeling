@@ -1,0 +1,8 @@
+Author(s): Kalita, G.; Adhikari, Sudip; Aryal, Hare Ram; Afre, Rakesh; Soga, T.; Sharon, Maheshwar; Umeno, Masayoshi;
+Title: Carbon nano materials (CNMs) for photovoltaic device application
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922487
+Abstract: Here, we present application of functionalized multiwalled carbon nanotubes (MWNTs) in hetrojunction photovoltaic devices. Functionalization of MWNTs were achieved by Surface wave microwave (SW-MW) plasma treatment. MWNTs were treated with nitrogen (N2) plasma in order to functionalize covalently their side walls with nitrogen functional groups. Functionalized CNTs were incorporated in heterojunction photovoltaic device along with poly-(3-octylthiophene) (P3OT). Fabricated device incorporating MWNTs, with the structure Au/P3OT+MWNTs/n-Si shows power conversion efficiency (η) of 0.086%. Functionalized MWNTs were incorporated in fullerene (C60)/P3OT heterojunction solar cell. It was observed that with incorporation of MWNTs there are significant improvement of device performance. With incorporation of functionalized MWNTs there can be easy exciton dissociation as well as better hole transportation along the length of nanotubes.
+Keywords: Carbon nanotubes;Heterojunctions;Nitrogen;Organic materials;Photovoltaic systems;Plasma applications;Plasma devices;Plasma materials processing;Plasma waves;Solar power generation;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922487&isnumber=4922425

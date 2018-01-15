@@ -1,0 +1,8 @@
+Author(s): McCandless, Brian E.; Buchanan, W.A.;
+Title: High throughput processing of CdTe/CdS solar cells with thin absorber layers
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922463
+Abstract: This paper presents deposition and post-deposition processing methods amenable for rapid processing of large area CdTe-based photovoltaic modules. A process optimization rationale is given for superstrate CdS/CdTe solar cells. CdTe films with sub-micron thickness were deposited by vapor transport (VT) on commercially available soda-lime glass substrates and treated in CdCl2 vapor with processing time of 2 min per plate. CdTe film thickness was reduced by lowering source temperature, and treatment temperatures were selected based on 3D modeling of CdS diffusion into polycrystalline CdTe films. The CdTe microstructure and optical properties for 0.3 to 3 μm film thickness are quantified for films deposited in N2/O2 ambient at 550°C and growth rates ∼10 μm/min and are compared to baseline samples with 5 μm CdTe. Solar cells with 1.5 μm and 0.8 μm VT CdTe processed with 2 min vapor CdCl2 treatment and mild etching have conversion efficiencies of 11% and 8%, respectively.
+Keywords: Etching;Glass;Microstructure;Optical films;Photovoltaic cells;Photovoltaic systems;Solar power generation;Substrates;Temperature;Throughput;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922463&isnumber=4922425

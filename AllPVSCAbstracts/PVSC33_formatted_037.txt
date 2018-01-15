@@ -1,0 +1,8 @@
+Author(s): Camus, Christian; Allsop, Nicholas A.; Kohler, Tristan; Kruger, Martin; Gledhill, Sophie E.; Klaer, Jo; Rappich, Jorg; Lux-Steiner, Martha C.; Fischer, Christian-Herbert;
+Title: Non-vacuum chalcopyrite solar cell absorbers: The Spray-ILGAR approach
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922468
+Abstract: In this report, solar cells based on CuInS2 absorber films, which were prepared by the Spray-ILGAR method, are presented for the first time. All solar cells had a glass/Mo/CuInS2/CdS/i-ZnO/n-ZnO/Ni-Al structure. Solar cells were produced from Spray-ILGAR CuInS2 absorber films using various deposition parameters. To date, a maximum efficiency of 4.1 % has been achieved. The CuInS2 absorber films consist of two layers of different crystalline quality. The origin as well as the influence of this structure on the photovoltaic performance is discussed. Therefore, scanning electron microscopy and Raman spectroscopy were applied, in order to characterize the Spray-ILGAR CuInS2 absorber films.
+Keywords: Costs;Etching;Fabrication;Geometry;Gold;Low voltage;Photovoltaic cells;Solid state circuits;Spraying;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922468&isnumber=4922425

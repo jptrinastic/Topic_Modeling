@@ -1,0 +1,8 @@
+Author(s): Kai Wang; Jiajun Chen; Zhou, Weilie; Zhang, Yong; Pern, John; Yanfa Yan; Mascarenhas, A.;
+Title: Synthesis and properties of type II core/shell nanowire arrays for solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922462
+Abstract: This report demonstrates the synthesis and properties of large-area well aligned air-stable ZnO/ZnSe core/shell nanowires on a large area transparent conducting substrate (TCO) by combining chemical vapor deposition (CVD) and pulsed laser deposition (PLD) techniques. the ZnO nanowire were uniformly and perpendicularly grown on the TCO substrate and the ZnSe shell with a thickness of 5–8 nm were epitaxially grown on the ZnO nanowires core. Photoluminescence (PL) studies indicate that the core/shell nanowires are relatively immune to the defects present at the core/shell interface due to the large lattice mismatch. Such a core/shell nanowire array represents a novel architecture that could lead to a stable and efficient as well as low-cost solar cell technology for solar energy harvesting.
+Keywords: Chemical lasers;Chemical vapor deposition;Lattices;Optical pulses;Photoluminescence;Photovoltaic cells;Pulsed laser deposition;Substrates;Zinc compounds;Zinc oxide;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922462&isnumber=4922425

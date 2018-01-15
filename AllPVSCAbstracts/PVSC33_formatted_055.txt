@@ -1,0 +1,8 @@
+Author(s): Barnes, T.M.; Blackburn, Jeffrey L.; Tenent, Robert C.; Morfa, Anthony; Heben, Michael; Coutts, Timothy J.;
+Title: Optimizing carbon nanotube contacts for use in organic photovoltaics
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922486
+Abstract: Transparent electrical contacts (TCs) play an important role in thin film photovoltaics (PV), including in organic devices (OPV). OPV devices have different TC requirements than traditional thin film devices, due to the need to make them flexible, cost and manufacturing constraints, and the potential benefits that may be realized from using a hole conducting TC. Additionally, the active layer in an OPV device is far thinner than in an inorganic “thin-film” device, causing TC morphology to have a significant effect on device performance. Here, we present data on optimizing carbon nanotube networks for use as TCs in OPV. We look at network deposition techniques and required post-treatment methods along with electrical, optical, and morphological data to devise a fabrication process for a high quality network that is compatible with OPV device production.
+Keywords: Carbon nanotubes;Contacts;Costs;Flexible manufacturing systems;Morphology;Optical devices;Optical fiber networks;Optical films;Photovoltaic cells;Thin film devices;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922486&isnumber=4922425

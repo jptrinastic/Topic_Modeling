@@ -1,0 +1,8 @@
+Author(s): Steiner, M.A.; Geisz, J.F.; Reedy, Robert C.; Kurtz, S.;
+Title: A direct comparison of inverted and non-inverted growths of GaInP solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922473
+Abstract: The inverted growth of III-V solar cells presents some specific challenges that are not present in regular, non-inverted growths. Because the highly doped top contact layer is grown first, followed by the lengthy high-temperature growth of the remainder of the structure, there is ample time for the dopants in the contact layer to diffuse away. This leads to an increase in the contact resistance to the top layer, and a corresponding drop in voltage. The diffusion of dopants in other layers is similarly altered with respect to the non-inverted configuration because of the change in growth sequence. We compare the dopant profiles of inverted and non-inverted structures by using secondary ion mass spectroscopy and correlate the results with the observed performance of the devices. We also describe a technique for growing a GaInAsN contact layer in the inverted configuration and show that it achieves a specific contact resistance comparable to what is normally observed in non-inverted cells.
+Keywords: Costs;Etching;Fabrication;Geometry;Gold;Low voltage;Photovoltaic cells;Semiconductivity;Solid state circuits;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922473&isnumber=4922425

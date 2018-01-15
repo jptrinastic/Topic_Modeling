@@ -1,0 +1,8 @@
+Author(s): Espinet, P.; Algora, C.; Rey-Stolle, I.; Garcia, I.; Baudrit, M.;
+Title: Electroluminescence characterization of III–V multi-junction solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922477
+Abstract: Characterization is a key process in attaining high efficiency in the state-of-the-art multi-junction solar cells. This work will summarize our efforts in using eletroluminescence for characterising multijunction solar cells. This study will present the possibilities of electroluminescence (EL) spectroscopy as a fast and simple characterization technique which is able to provide extensive information about the solar cell's performance. Finally, four of the applications of this technique will be presented: band gap estimation, barrier effect for minority carriers, information on the thermal performance of encapsulated devices and determination of the shunt resistance of each cell in a dual junction device.
+Keywords: Electroluminescence;Equations;III-V semiconductor materials;Photonic band gap;Photovoltaic cells;Photovoltaic systems;Spectroscopy;Spontaneous emission;Telecommunications;Thermal resistance;Characterization;Electroluminescence;Multi-junction Solar Cells;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922477&isnumber=4922425

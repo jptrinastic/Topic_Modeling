@@ -1,0 +1,8 @@
+Author(s): Fahrenbruch, Alan;
+Title: Measuring CdS/CdTe back contact barrier heights by internal photoemission
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922512
+Abstract: The back contact of the CdS/CdTe solar cell is one of the most critical aspects in optimizing efficiency and stability. A fundamental parameter is the barrier height Fbc and its measurement is important to fully understanding the device. Plotting the Internal photoemission (IPE) current response to sub-band-gap light according to the Fowler theory gives an intercept equal to the barrier height. IPE can be applied to completed cells, and to thick, thin, and n/i/p cells. Results are compared for a number of cells from various fabricators, including those with good and bad contacts and electronically thick and thin cells. Results suggest two barriers in parallel: a high one, (∼ 0.9 eV) which agrees well with the observed UPS values and a low one (∼ 0.3 eV) with a much smaller area fraction (1 – 4%) which dominates the contact transport and corresponds more closely to the values observed for efficient cells. For thick cells, IPE results agree well with thermal measurements.
+Keywords: Current measurement;Energy measurement;Fabrication;Photoelectricity;Photonic band gap;Physics;Thermal variables measurement;Thickness measurement;Uninterruptible power systems;Voltage;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922512&isnumber=4922425

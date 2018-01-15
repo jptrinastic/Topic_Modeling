@@ -1,0 +1,8 @@
+Author(s): Berghoff, B.; Rolver, R.; Batzner, D.L.; Spangenberg, B.; Kurz, H.; Dimyati, A.; Sologubenko, A.; Mayer, J.;
+Title: Confinement and transport in silicon based quantum structures
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922499
+Abstract: Crystallized Si QWs embedded between SiO2 barrier layers were fabricated by remote plasma enhanced chemical vapor deposition of Si/SiO2 and Si/SiOx stacks and subsequent high temperature annealing. Using SiOx instead of SiO2 strongly enhances the overall crystallinity and the nanocrystallite size of the Si QWs. The phase separation of the SiOx into Si and SiO2 increases the thickness of the Si QWs and yields thin SiO2 barriers. Photoluminescence measurements on annealed stacks showed a quantum confinement of carriers within the Si QWs. The high degree of crystallization and the decrease of SiO2 barrier height and thickness as well as possible shunting between adjacent Si layers improve the conductivity of annealed Si/SiOx stacks by up to seven orders of magnitude compared to Si/SiO2 stacks.
+Keywords: Annealing;Chemical vapor deposition;Crystallization;Photoluminescence;Plasma chemistry;Plasma confinement;Plasma temperature;Plasma transport processes;Potential well;Silicon;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922499&isnumber=4922425

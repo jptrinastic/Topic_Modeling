@@ -1,0 +1,8 @@
+Author(s): Bett, A.W.; Jaus, J.; Peharz, G.; Siefer, G.; Hakenjos, A.; Heile, Inka; Lerchenmuller, Hansjorg; Wullner, Johannes;
+Title: Outdoor evaluation of flatcon® modules and systems
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922454
+Abstract: This paper reviews outdoor performance measurements conducted on FLATCON® modules and systems. It highlights the influence of spectra, humidity, temperature, and acceptance angle on the module performance. The variation in efficiency due to spectral changes on a clear day was in the range of 5 % (relative). The influence of humidity could not be quantified easily because the underlying effect of the air mass change could not be separated. For our FLATCON® modules we find an increase of operating cell temperature of 4 K per 100 W/m2 increase in DNI. FLATCON® system performance has been also analysed. AC system efficiencies above 23 % have been measured for a 5.75 kW CPV system manufactured by Concentrix Solar.
+Keywords: Humidity;Manufacturing;Measurement;Performance analysis;System performance;Temperature;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922454&isnumber=4922425

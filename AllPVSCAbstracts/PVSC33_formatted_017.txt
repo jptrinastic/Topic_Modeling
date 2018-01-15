@@ -1,0 +1,8 @@
+Author(s): Qi Wang; Page, M.R.; Iwaniczko, E.; Xu, Y.Q.; Roybal, L.; Bauer, R.; To, B.; Yuan, H.-C.; Duda, A.; Yan, Y.F.;
+Title: Crystal silicon heterojunction solar cells by hot-wire CVD
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922448
+Abstract: Hot-wire chemical vapor deposition (HWCVD) is a promising technique for fabricating Silicon heterojunction (SHJ) solar cells. In this paper we describe our efforts to increase the open circuit voltage (Voc) while improving the efficiency of these devices. On p-type c-Si float-zone wafers, we used a double heterojunction structure with an amorphous n/i contact to the top surface and an i/p contact to the back surface to obtain an open circuit voltage (Voc) of 679 mV in a 0.9 cm2 cell with an independently confirmed efficiency of 19.1%. This is the best reported performance for a cell of this configuration. We also made progress on p-type CZ wafers and achieved 18.7% independently confirmed efficiency with little degradation under prolong illumination. Our best Voc for a p-type SHJ cell is 0.688 V, which is close to the 691 mV we achieved for SHJ cells on n-type c-Si wafers.
+Keywords: Chemical vapor deposition;Circuits;Heterojunctions;Photovoltaic cells;Plasma temperature;Rough surfaces;Silicon;Surface cleaning;Surface roughness;Voltage;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922448&isnumber=4922425

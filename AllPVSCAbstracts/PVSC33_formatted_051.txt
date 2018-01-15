@@ -1,0 +1,8 @@
+Author(s): Lim, Bianca; Bothe, K.; Schmidt, J.;
+Title: Modeling the generation and dissociation of the boron-oxygen complex in B-Doped Cz-Si
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922482
+Abstract: We demonstrate that the boron-oxygen (BsO2i) recombination center responsible for the light-induced degradation of Czochralski silicon solar cells can be deactivated by simultaneous annealing and illumination. After applying this deactivation treatment the improved carrier lifetime is shown to be stable under illumination at room temperature. The measured dependence of the deactivation rate as a function of temperature indicates that the process is thermally activated. Based on the experimental findings a defect reaction model is proposed which attributes the deactivation to a dissociation reaction of a complex XY of unknown composition and to the subsequent association of one component X of this complex with the oxygen dimer O2i into XO2i, thereby reducing the concentration of unbound O2i. An excellent agreement between the experimental and the modeled time dependence of the BsO2i concentration is found.
+Keywords: Annealing;Charge carrier lifetime;Degradation;Lighting;Photovoltaic cells;Semiconductor device modeling;Silicon;Solar power generation;Temperature;Voltage;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922482&isnumber=4922425

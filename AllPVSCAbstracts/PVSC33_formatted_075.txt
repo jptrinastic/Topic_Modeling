@@ -1,0 +1,8 @@
+Author(s): Radhakrishnan, Gokul; Freundlich, Alex; Charlson, Joe; Fuhrmann, Bodo;
+Title: Epitaxial growth of III–V semiconductor vertical and tilted nanowires on silicon
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922506
+Abstract: Here we demonstrate the growth of GaAs and InP nanowires on silicon (111) using gold as the metal seed particle. An ordered array of gold nano dots is integrated on the surface of a silicon substrate using self-assembled polystyrene nanospheres as the Au evaporation template. Growth of the wires is done by chemical beam epitaxy under a vapor phase environment using the Vapor Liquid Solid mechanism. Scanning electron microscopy, photoluminescence and X-ray spectroscopy are used to characterize these nanowires. These nanowires exhibit high crystallinity and good photoluminesce properties stressing their potential for photovoltaic applications.
+Keywords: Chemicals;Epitaxial growth;Gallium arsenide;Gold;Indium phosphide;Nanowires;Self-assembly;Silicon;Substrates;Wires;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922506&isnumber=4922425

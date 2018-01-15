@@ -1,0 +1,8 @@
+Author(s): Zhou, Dayu; Biswas, Rana;
+Title: Enhanced photon harvesting in a-Si:H solar cells with photonic crystals
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922440
+Abstract: We utilize photonic crystals to simulate enhanced photon harvesting in a-Si:H thin film solar cells. A one dimensional photonic crystal (distributed bragg reflector) with alternating dielectric layers acts as low loss back reflector. A two dimensional photonic crystal can diffract light at oblique angles within the absorber layer. We survey both the front and back grating with different choices of the distributed bragg reflectors. Simulations show significantly photon harvesting enhancement between the wavelength of 600 – 775 nm, below the band edge of a a-Si:H absorber layer. The short circuit current is increased by upto 30% and path length increased by several hundred times. The optical modeling is performed with a rigorous scattering matrix approach where Maxwell's equations are solved in Fourier space.
+Keywords: Bragg gratings;Circuit simulation;Dielectric losses;Dielectric thin films;Diffraction;Distributed Bragg reflectors;Optical losses;Optical scattering;Photonic crystals;Photovoltaic cells;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922440&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Pern, F.J.; Noufi, R.; Li, X.; DeHart, C.; To, B.;
+Title: Damp-heat induced degradation of transparent conducting oxides for thin-film solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922491
+Abstract: The stability of intrinsic and Al-doped single- and bilayer ZnO for thin-film CuInGaSe2 solar cells, along with Al-doped Zn1−xMgxO alloy and Sn-doped In2O3 (ITO) and F-doped SnO2, was evaluated by direct exposure to damp heat (DH) at 85°C and 85% relative humidity. The results show that the DH-induced degradation rates followed the order of Al-doped ZnO and Zn1−xMgxO ≫ ITO ≫ F:SnO2. The degradation rates of Al:ZnO were slower for films of higher thickness, higher substrate temperature in sputterdeposition, and with dry-out intervals. As inferred from the optical micro-imaging showing the initiation and propagation of degrading patterns and regions, the degradation behavior appears similar for all TCOs, despite the obvious difference in the degradation rate. A degradation mechanism is proposed to explain the temporal process involving thermal hydrolysis.
+Keywords: DH-HEMTs;Humidity;Indium tin oxide;Optical films;Photovoltaic cells;Solar heating;Stability;Thermal degradation;Transistors;Zinc oxide;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922491&isnumber=4922425

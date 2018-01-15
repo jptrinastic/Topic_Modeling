@@ -1,0 +1,8 @@
+Author(s): Browne, Ben; Ioannides, Andreas; Connolly, James; Barnham, Keith; Roberts, J.; Airey, Robert; Hill, Geoffrey; Smekens, Guy; Van Begin, Jose;
+Title: Tandem quantum well solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922474
+Abstract: Quantum wells offer advantages in conventional bulk tandem solar cells since they allow the independent tailoring of the absorption edge of either cell with no lattice mismatch and subsequent relaxation. We describe progress in the band gap engineering of InGaP/GaAs solar cells using strain balanced quantum wells and present a tandem quantum well structure which has achieved 30.6% efficiency under 54 suns AM1.5g. This is a record for photovoltaic nanostructured devices. We predict realistic efficiencies of 34% under 600suns, AM1.5d low AOD for optimized devices. Finally, the possibility and potential gains of introducing quantum wells into both cells of an InGaP/GaAs device are discussed.
+Keywords: Absorption;Capacitive sensors;Gallium arsenide;Lattices;Nanoscale devices;Photonic band gap;Photovoltaic cells;Photovoltaic systems;Solar power generation;Sun;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922474&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Jester, Theresa L.; Brown, Katie; Mulligan, Bill;
+Title: Grid-competitive residential and commercial fully automated PV systems technology
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922530
+Abstract: SunPower Corporation is performing work under the U.S. Department of Energy's Solar America Initiative. We have assembled a diverse team of leading companies, including several small businesses, to form our Technology Pathway Partnership (TPP) and believe that, through our combined efforts, the program's Levelized Cost of Energy (LCOE) goals for 2010 and 2015 can be met. This is a Systems Class TPP program in which our team addresses technology from silicon crystal growth to systems installed in the field. The Technology Pathway Partners include SunPower, as the prime recipient, and Solaicx, SiGen, Dow Corning, STR, Xantrex, and NREL, as sub-recipient partners.
+Keywords: Assembly;Companies;Costs;Fabrication;Inverters;Optical losses;Photovoltaic cells;Production;Subcontracting;Temperature sensors;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922530&isnumber=4922425

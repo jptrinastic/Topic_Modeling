@@ -1,0 +1,8 @@
+Author(s): Sahlstrom, T.D.; Hausgen, Paul E.; Guerrero, Jim; Howard, Alex D.; Snyder, N.A.;
+Title: Ultraviolet degradation testing of space protective coatings for photovoltaic cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922511
+Abstract: The Air Force Research Laboratory (AFRL) is seeking robust conformal coatings for the protection of space photovoltaic devices. Such coatings will be required to withstand the stresses of the space environment without structural failure and with minimum loss of transparency. One of the key space environmental factors affecting coatings is ultraviolet radiation. As such, ultraviolet degradation tests were performed upon candidate space conformal coatings at AFRL, Space Vehicles Directorate, Ultraviolet Degradation Test Facility (UVDTF). Multiple sample sets, from several vendors have been exposed at AFRL, with promising results. Experimental setup is outlined, and a detailed discussion on the test method and calculations is provided. Test results have influenced the selection of certain coating formulations to fly on the Materials on the International Space Station Experiment Seven (MISSE-7). Results of two sample sets from one vendor are given to show the method and capability of the UVDTF.
+Keywords: Coatings;Degradation;Laboratories;Photovoltaic cells;Photovoltaic systems;Protection;Robustness;Solar power generation;Stress;Testing;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922511&isnumber=4922425

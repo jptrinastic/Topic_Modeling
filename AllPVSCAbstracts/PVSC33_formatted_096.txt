@@ -1,0 +1,8 @@
+Author(s): Spath, M.; de Jong, P.C.; Bennett, I.J.; Visser, T.P.; Bakker, J.;
+Title: A novel module assembly line using back contact solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922528
+Abstract: There is a great need for cost-effective high-throughput equipment to assemble thin and high-efficiency solar cells into modules. Presently, a module assembly line facilitating back-contact solar cells is build by TTA and ECN. This fully operational pilotline consisting of dedicated equipment to process back contact cell modules focuses on the production of 4 × 9 and up to 6 × 10 cells modules. The emphasis is on the production of modules with ultra thin back contact cells of mc 156 × 156 mm2 and only 130 μm in thickness. Comprising a throughput rate of 1 cell per second, which is 6–8 times faster than any existing technology, a module production capacity of 100 MWp is targeted for. Processing of the first set of modules shows good results in terms of process reliability and yield. The overall yield for the first series of 23 modules (4 × 9) was 100% while 8 of the remaining 23 modules generated a fill factor of 74%.
+Keywords: Assembly;Conducting materials;Costs;Energy consumption;Europe;Manufacturing;Photovoltaic cells;Production;Solar power generation;Throughput;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922528&isnumber=4922425

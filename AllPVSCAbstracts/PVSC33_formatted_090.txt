@@ -1,0 +1,8 @@
+Author(s): Davis, M.; Lawler, J.; Coyle, J.; Reich, A.; Williams, T.;
+Title: Machine vision as a method for characterizing solar tracker performance
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922522
+Abstract: This paper describes an approach to measuring the pointing error of solar trackers using a machine vision system. GreenMountain Engineering developed a device that employs this method with a custom embedded system and image processing software. The technical approach of this device (called the “Trac-Stat SL1”) is presented here with the results of extended tests on a commercially available tracker. Our conclusion is that using this method of machine vision to characterize solar trackers is useful for tracker and tracker controller research, development, end-user qualification, and other applications where calibrated, accurate information about the performance of tracking systems is needed.
+Keywords: Control systems;Machine vision;Optical distortion;Optical noise;Optical sensors;Power generation;Qualifications;Sun;Testing;Wind;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922522&isnumber=4922425

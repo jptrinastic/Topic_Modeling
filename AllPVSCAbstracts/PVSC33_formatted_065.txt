@@ -1,0 +1,8 @@
+Author(s): Kapur, Vijay; Kemmerle, Richard; Bansal, A.; Haber, Joel; Schmitzberger, Jurg; Le, Phucan; Guevarra, Dan; Kapur, Vincent; Stempien, Tim;
+Title: Manufacturing of ‘ink based’ CIGS solar cells/modules
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922496
+Abstract: The rapid growth of the PV business demands increased production capacity and lowered cost of manufacturing PV modules. ISET has developed a low cost ‘ink-based’ process by which high efficiency CIGS modules can be manufactured at very low costs. ISET is currently in the process of commercializing this technology. This paper describes ISET's progress in setting up the pilot plant of 3MW/Yr nominal capacity for CIGS modules and plans to expand it into a full scale (≫50 MW/Yr) manufacturing facility.
+Keywords: Chemical vapor deposition;Costs;Crystallization;Ink;Manufacturing processes;Photovoltaic cells;Printing;Production;Substrates;Zinc oxide;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922496&isnumber=4922425

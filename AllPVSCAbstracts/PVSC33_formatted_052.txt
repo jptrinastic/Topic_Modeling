@@ -1,0 +1,8 @@
+Author(s): Holt, A.; Olaisen, Birger Retterstol; Enebakk, Erik; Soiland, Anne-Karin;
+Title: Effect of annealing of multi crystalline edge wafers and Cz mono crystalline wafers based on metallurgical silicon
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922483
+Abstract: The objective of this study has been to investigate the effect of annealing of multi crystalline edge wafers and Cz mono crystalline wafers based on metallurgically refined silicon. Sets of neighboring wafers have been annealed at different temperatures and compared with as cut wafers as well as P-gettered wafers. The wafers have been characterized by μ-PCD, QSSPC, FeB-pair splitting and SIMS. The lifetime of minority carriers showed an improvement up to 100 times both in the edge zone and in the bulk region after P-gettering of multi crystalline wafers, dependent upon the position in the block and position within the wafer. However, Cz wafers showed no significant effect of gettering with respect to electrical properties in the bulk region. An edge region with lower lifetime for Cz wafers was observed from the surface and about one cm inwards. Temperature annealing showed only an improvement of the electrical properties in the edge zones for both multi crystalline wafers and Cz wafers. The effect after annealing is highest in the temperature range 500–600 °C in both cases.
+Keywords: Annealing;Crystallization;MONOS devices;Silicon;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922483&isnumber=4922425

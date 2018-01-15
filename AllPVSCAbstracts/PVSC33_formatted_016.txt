@@ -1,0 +1,8 @@
+Author(s): Song, G.; Ali, M.Y.; Tao, M.;
+Title: Diffusion-free back-contact solar cells on S-passivated p-type Si(100) substrates
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922447
+Abstract: In back-contact solar cells, the emitter is conventionally formed by diffusion of a n-type dopant into a p-type substrate. We demonstrate a back-contact solar cell without diffusion. The p-n junction in our cell is formed by the record-high Schottky barrier of 1.1 eV between low work-function aluminum and sulfur-passivated p-type Si(100) surface. The high Schottky barrier induces degenerate inversion on the surface of p-type Si, leading to the formation of a p-n junction without diffusion. The sulfur passivation process is performed by immersing the Si substrate in an aqueous solution containing ammonium sulfide. Although the conversion efficiency is low in this cell (∼1%), it can be significantly increased by employing a chemical vapor deposition process for passivation and by optimizing several material/device parameters.
+Keywords: Aluminum;Artificial intelligence;Atomic layer deposition;Doping;P-n junctions;Passivation;Photovoltaic cells;Protection;Schottky barriers;Temperature;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922447&isnumber=4922425

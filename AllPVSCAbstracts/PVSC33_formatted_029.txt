@@ -1,0 +1,8 @@
+Author(s): Kayes, B.M.; Filler, M.A.; Henry, M.D.; Maiolo III, J.R.; Kelzenberg, M.D.; Putnam, M.C.; Spurgeon, J.M.; Plass, K.E.; Scherer, A.; Lewis, N.S.; Atwater, H.A.;
+Title: Radial PN junction, wire array solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922460
+Abstract: Radial pn junctions are of interest in photovoltaics because of their potential to reduce the materials costs associated with cell fabrication. However, devices fabricated to date based on Au-catalyzed vapor-liquid-solid growth have suffered from low open-circuit voltages (to our knowledge the highest reports are 260 mV in the solid state and 389 mV in solid-liquid junctions). Herein we report on the potential of low-cost catalysts such as Cu and Ni to fabricate Si wire arrays with potentially higher minority-carrier lifetimes than is possible with a Au catalyst, as well as on the use of reactive ion etching to fabricate high-purity analogs to vapor-liquid-solid grown arrays.
+Keywords: Costs;Etching;Fabrication;Geometry;Gold;Low voltage;Photovoltaic cells;Semiconductivity;Solid state circuits;Wire;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922460&isnumber=4922425

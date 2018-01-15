@@ -1,0 +1,8 @@
+Author(s): Kasemann, M.; Kwapil, W.; Schubert, M.C.; Habenicht, H.; Walter, B.; The, M.; Kontermann, S.; Rein, S.; Breitenstein, O.; Bauer, J.; Lotnyk, A.; Michl, B.; Nagel, H.; Schutt, A.; Carstensen, J.; Foll, H.; Trupke, T.; Augarten, Y.; Kampwerth, H.; Bardos, R.A.; Pingel, S.; Berghold, J.; Warta, W.; Glunz, S.W.;
+Title: Spatially resolved silicon solar cell characterization using infrared imaging methods
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-7
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922478
+Abstract: We present a comprehensive overview over infrared imaging techniques for (electrical) silicon solar cell characterization. Recent method development in local series resistance imaging is reviewed in more detail and new results in local breakdown investigations on multicrystalline (mc) silicon solar cells are reported. We observe local junction breakdown sites on industrial mc-cells at reverse voltages as low as −7V and breakdown in great areas of the cell at voltages around −14V. As these breakdown sites (as well as local shunts) can cause hot spots which can damage the cell and the module, we also present an ultra-fast, simple and quantitative method for hot-spot detection. Typical measurement times in the order of 10 milliseconds are achieved.
+Keywords: Breakdown voltage;Electric breakdown;Electric resistance;Image resolution;Infrared imaging;Low voltage;Optical imaging;Photovoltaic cells;Silicon;Spatial resolution;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922478&isnumber=4922425

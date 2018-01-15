@@ -1,0 +1,8 @@
+Author(s): Britt, J.S.; Wiedeman, S.; Schoop, U.; Verebelyi, D.;
+Title: High-volume manufacturing of flexible and lightweight CIGS solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922503
+Abstract: Progress in scaling up CIGS thin film solar cell production at a new Global Solar manufacturing line is reported. A new plant with high throughput tools will increase capacity from 4MWp/yr to 40MWp/yr in 2008. The processes applied to make the product and the status of the manufacturing processes during the start-up stage will be reported. Investigations of tool capability will be presented. The tool cycle times and coating uniformity have been investigated to ensure production readiness. Satisfactory capability has been demonstrated for all coating processes and large area conversion efficiencies greater than 10% have been independently demonstrated through substitution in the first-generation production line.
+Keywords: Coatings;Costs;Electronic switching systems;Flexible manufacturing systems;Manufacturing automation;Manufacturing processes;Photovoltaic cells;Production facilities;Substrates;Transistors;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922503&isnumber=4922425

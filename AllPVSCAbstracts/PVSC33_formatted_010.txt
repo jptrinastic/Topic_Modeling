@@ -1,0 +1,8 @@
+Author(s): Chun Gong; Posthuma, N.; Dross, F.; Kerschaver, Emmanuel Van; Giovanni, Flamand; Beaucarne, G.; Poortmans, Jef; Hoofman, R.J.O.M.;
+Title: Comparison of n- and p-type high efficiency silicon solar cell performance under low illumination conditions
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922441
+Abstract: For scavenging energy out of the environment, it is very important for solar cells to maintain the efficiency at low light intensity levels. The high efficiency p-type front junction (18.3% at 1 sun AM1.5) and n-type rear junction (17.3% at 1 sun AM1.5) cells are prepared using an identical cell process based on firing an aluminum paste on the rear. The Al paste acts either as back surface field or rear emitter respectively. A detailed characterization of these cells under low illumination conditions was carried out based on the measured efficiency and suns-Voc. In this paper, it is experimentally and theoretically shown that n-type base cells outperform p-type base cells at such low injection levels. The observed dependence of the performance on the injection level is explained using the Shockley-Read-Hall recombination model where the different capture cross sections for electrons and holes has a decisive influence on the minority carrier bulk lifetime for p-type silicon under low level injection.
+Keywords: Aluminum;Artificial intelligence;Batteries;Charge carrier processes;Lighting;Photovoltaic cells;Silicon;Solar energy;Spontaneous emission;Sun;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922441&isnumber=4922425

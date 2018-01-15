@@ -1,0 +1,8 @@
+Author(s): Xiangxin Liu; Compaan, A.D.; Kai Sun; Terry, Jeff;
+Title: XRF and high resolution TEM studies of Cu at the back contact in sputtered CdS/CdTe solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922458
+Abstract: We have used the MR-CAT beam-line of the Advanced Photon Source (APS) at Argonne National Laboratory to study Cu x-ray fluorescence (XRF) in CdS/CdTe/Au structures on fused silica without transparent conductive oxide (TCO). After a “peel-off” process that separates the back contact at the CdTe/Cu interface both parts were studied by XRF. In order to locate the Cu spatially, we prepared TEM cross-sections and performed analytical electron microscopy at the Electron Microbeam Analysis Laboratory (EMAL) at the University of Michigan, to obtain high-resolution electron microscopy (HREM) imaging with a point-to-point resolution of 1.7 Å together with fine-probe energy-dispersive x-ray spectroscopy (EDX). We found direct evidence of an interfacial Cu-rich layer between CdTe and Au with thickness of ∼ 4 Å and relatively high concentration of Cu in the Au layer. Based on previous EXAFS studies we suggest that a copper-oxide layer is formed at the CdTe/Au interface which might serve to inhibit diffusion of copper into the CdTe layer.
+Keywords: Copper;Electron microscopy;Fluorescence;Gold;Image analysis;Laboratories;Performance analysis;Photovoltaic cells;Silicon compounds;Transmission electron microscopy;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922458&isnumber=4922425

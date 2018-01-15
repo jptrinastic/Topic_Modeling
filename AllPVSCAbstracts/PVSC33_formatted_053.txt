@@ -1,0 +1,8 @@
+Author(s): Nordmark, H.; Di Sabatino, M.; Acciarri, M.; Libal, J.; Binetti, S.; Ovrelid, E.J.; Walmsley, J.C.; Holmestad, R.;
+Title: EBIC, EBSD and TEM study of grain boundaries in multicrystalline silicon cast from metallurgical feedstock
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922484
+Abstract: Grain boundaries in multicrystalline silicon material grown from metallurgical feedstock, were investigated in detail using Electron Beam Induced Current (EBIC), Electron Back-Scattered Diffraction (EBSD) and Transmission Electron Microscopy (TEM) techniques. The EBSD analysis showed that small angle grain boundaries, with misorientation angles lower than 2°, gave high EBIC contrast, i.e., high recombination activity. EBIC combined with TEM showed that at low temperatures, silicon oxide was found to be recombination centers both at grain boundaries and on decorated dislocations in the bulk. The grain boundaries containing multi-metallic silicides were found to have random misorientations and showed strong contrast in the EBIC image. Clean twins showed less or no contrast in the EBIC image. The metallic precipitates observed in the sample contain mainly nickel silicide with an iron rich core.
+Keywords: Diffraction;Electron beams;Grain boundaries;Inorganic materials;Nickel;Silicides;Silicon;Spontaneous emission;Temperature;Transmission electron microscopy;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922484&isnumber=4922425

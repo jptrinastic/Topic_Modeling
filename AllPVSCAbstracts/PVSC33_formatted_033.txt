@@ -1,0 +1,8 @@
+Author(s): Curtis, C.J.; van Hest, M.; Miedaner, A.; Nekuda, Jennifer; Hersh, P.; Leisch, Jennifer; Ginley, D.S.;
+Title: Spray deposition of high quality CuInSe2 and CdTe films
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922464
+Abstract: A number of different ink and deposition approaches have been used for the deposition of CuInSe2 (CIS), Cu(In,Ga)Se2 (CIGS), and CdTe films. For CIS and CIGS, soluble precursors containing Cu, In, and Ga have been developed and used in two ways to produce CIS films. In the first, In-containing precursor films were sprayed on Mo-coated glass substrates and converted by rapid thermal processing (RTP) to In2Se3. Then a Cu-containing film was sprayed down on top of the In2Se3 and the stacked films were again thermally processed to give CIS. In the second approach, the Cu-, In-, and Ga-containing inks were combined in the proper ratio to produce a mixed Cu-In-Ga ink that was sprayed on substrates and thermally processed to give CIGS films directly. For CdTe deposition, ink consisting of CdTe nanoparticles dispersed in methanol was prepared and used to spray precursor films. Annealing these precursor films in the presence of CdCl2 produced large-grained CdTe films. The films were characterized by x-ray diffraction (XRD) and scanning electron microscopy (SEM). Optimized spray and processing conditions are crucial to obtain dense, crystalline films.
+Keywords: Annealing;Computational Intelligence Society;Glass;Ink;Methanol;Nanoparticles;Rapid thermal processing;Scanning electron microscopy;Substrates;Thermal spraying;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922464&isnumber=4922425

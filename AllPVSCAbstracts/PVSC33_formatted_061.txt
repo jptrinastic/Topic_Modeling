@@ -1,0 +1,8 @@
+Author(s): Singh, V.P.; Rajaputra, S.; Chintakula, Goutam; Sagi, Gayatri; Phok, S.;
+Title: Schottky diode solar cells based on copper phthalocyanine nanowires
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922492
+Abstract: Copper phthalocyanine (CuPc) nanowires were electrodeposited in the pores of anodized aluminum oxide (AAO) templates. CuPc-Al Schottky diodes were formed on these nanowires and their materials and electro-optical characteristics were compared with Schottky diodes made from CuPc films electrodeposited on planar ITO-glass substrates. CuPc nanowires and the electrodeposited CuPc films (as prepared) had the preferred crystallite orientation of the α-phase. A thin layer of PEDOT: PSS, inserted between CuPc nanowires and the ITO electrode, improved the contact and reduced the series resistance by an order of magnitude. Under one sun illumination, Schottky diode on the planar CuPc film yielded a record high open circuit voltage of 1.19 V. On the other hand, no photovoltaic response was seen in case of nanowire Schottky diodes. Lack of photovoltaic response was attributed to the length (500 nm) of nanowires being much larger than the CuPc exciton diffusion length of only a few nm.
+Keywords: Aluminum oxide;Copper;Crystalline materials;Crystallization;Nanowires;Photovoltaic cells;Photovoltaic systems;Schottky diodes;Solar power generation;Substrates;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922492&isnumber=4922425

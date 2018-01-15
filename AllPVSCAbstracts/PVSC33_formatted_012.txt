@@ -1,0 +1,8 @@
+Author(s): Haverkamp, Helge; Dastgheib-Shirazi, Amir; Raabe, Bernd; Book, Felix; Hahn, G.;
+Title: Minimizing the electrical losses on the front side: Development of a selective emitter process from a single diffusion
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922443
+Abstract: In this paper we present latest results in the development of a process for the fabrication of a selective emitter structure on mono- and multicrystalline silicon solar cells. The process is based on an approach that was first introduced by Zerga et al. [1]. We have chosen a wet chemical route for an emitter etch back where the areas of the wafer that are intended for emitter metallization are shielded from etching by a screen printable etch barrier. The etch barrier is later removed by wet chemical etching. The process has yielded a gain in open circuit voltage of more than 1% and a gain in short circuit current of more than 2%. The overall efficiency gain was more than 0.3%abs due to slightly lower fill factor of the cells.
+Keywords: Chemicals;Contact resistance;Current density;Doping profiles;Fabrication;Metallization;Photovoltaic cells;Silicon compounds;Surface resistance;Wet etching;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922443&isnumber=4922425

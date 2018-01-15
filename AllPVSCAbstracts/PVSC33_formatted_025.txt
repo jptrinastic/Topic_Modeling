@@ -1,0 +1,8 @@
+Author(s): Chang, C.H.; Peichen Yu; Chiu, C.H.; Kuo, H.C.;
+Title: High efficiency gallium arsenide solar cells using Indium-Tin-Oxide nano-columns
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922456
+Abstract: An array of conductive Indium-Tin-Oxide (ITO) nano-columns is deposited on GaAs solar cells using the oblique-angle electron-beam deposition method. Calculations based on a rigorous coupled-wave analysis method show that such ITO nano-columns offer superior angular and spectral anti-reflective (AR) properties. The optical characteristics of the ITO nano-columns are described. The conversion efficiency of GaAs solar cells with ITO nano-columns as the AR coating is increased by 23%, mainly limited by the quantum efficiency at the wavelengths below 600nm.
+Keywords: Coatings;Gallium arsenide;Indium tin oxide;Photovoltaic cells;Wavelength conversion;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922456&isnumber=4922425

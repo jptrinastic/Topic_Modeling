@@ -1,0 +1,8 @@
+Author(s): Baudrit, M.; Algora, Carlos;
+Title: Modeling of GaInP/GaAs Dual-Junction solar cells including Tunnel Junction
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922476
+Abstract: This paper presents research efforts conducted at the IES-UPM in the development of an accurate, physically-based solar cell model using the general-purpose ATLAS® device simulator by Silvaco. Unlike solar cell models based on a combination of discrete electrical components, this novel model extracts the electrical characteristics of a solar cell based on virtual fabrication of its physical structure, allowing for direct manipulation of materials, dimensions, and dopings. As single junction solar cells simulation was yet achieved, the next step towards advanced simulations of multi-junction cells (MJC) is the simulation of the tunnel diodes, which interconnect the subcells in a monolithic MJC. The first results simulating a Dual-Junction (DJ) GaInP/GaAs solar cells are shown in this paper including a complete Tunnel Junction (TJ) model and the resonant cavity effect occurring in the bottom cell. Simulation and experimental results were compared in order to test the accuracy of the models employed.
+Keywords: Diodes;Doping;Electric variables;Electrons;Fabrication;Gallium arsenide;Photovoltaic cells;Semiconductor process modeling;Testing;Tunneling;Multi-Junction Solar Cells;Simulation;Tunnel Junction;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922476&isnumber=4922425

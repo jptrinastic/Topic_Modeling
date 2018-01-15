@@ -1,0 +1,8 @@
+Author(s): von Roedern, Bolko; Ullal, H.S.;
+Title: “The role of polycrystalline thin-film PV technologies in competitive PV module markets”
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922493
+Abstract: This paper discusses the developments in thin-film PV technologies. It provides an outlook on future commercial module efficiencies achievable based on today's knowledge about champion cell performance. It also provides a relative cost comparison of thin-film and wafer/ribbon based Si PV modules. In 2007, about 65% of the modules produced in the US were thin-film modules when amorphous silicon modules are also considered.
+Keywords: Amorphous silicon;Costs;Laboratories;Manufacturing;Photovoltaic cells;Renewable energy resources;Semiconductor thin films;Silicon compounds;Transistors;USA Councils;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922493&isnumber=4922425

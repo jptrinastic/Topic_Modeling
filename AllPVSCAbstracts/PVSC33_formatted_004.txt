@@ -1,0 +1,8 @@
+Author(s): Caballero, L.J.; Martinez, A.; Sanchez-Friera, P.; Vazquez, M.A.; Alonso, J.;
+Title: Front grid design in industrial silicon solar cells: Modelling to evaluate the behaviour of three vs. two buses cell patterns
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922435
+Abstract: The increase in size of the silicon wafers that has been followed by the present industry makes raise the current that cells can provide. Thus, series resistance of the cells introduces a power loss that also tends to rise.
+Keywords: Analytical models;Contact resistance;Equivalent circuits;Fingers;Integrated circuit interconnections;Metallization;Pattern analysis;Photovoltaic cells;Semiconductor device modeling;Silicon;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922435&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Gorrie, C.W.; Reese, M.; Perkins, John D.; van Hest, Maikel F.A.M.; Alleman, Jeff L.; Dabney, M.S.; To, B.; Ginley, D.S.; Berry, J.J.;
+Title: Transparent conducting contacts based on zinc oxide substitutionally doped with gallium
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-3
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922488
+Abstract: We have employed a high-throughput combinatorial approach to explore a range of Ga doping levels from ≈2–7.5 a.t.% gallium in materials sputtered from ceramic oxide targets on glass substrates. Using our combinatorial approach this compositional spread is examined over a range of substrate temperatures and sputtering atmospheres. Structural, optical, and electrical analysis is then performed using our suite of combinatorial characterization tools. In parallel we have used pulsed laser deposition (PLD) from ceramic targets to produce state of the art Ga:ZnO films on glass at a variety of substrate temperatures for comparison to our combinatorial studies. Our best PLD materials were deposited at a nominal substrate temperature of 300 °C and resulted in a film with a resistivity of 7.7 × 10−5 Ω·cm and transparency in excess of 85% in the visible.
+Keywords: Ceramics;Doping;Gallium;Glass;Optical films;Optical materials;Pulsed laser deposition;Substrates;Temperature;Zinc oxide;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922488&isnumber=4922425

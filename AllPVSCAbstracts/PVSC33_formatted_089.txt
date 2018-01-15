@@ -1,0 +1,8 @@
+Author(s): Einhaus, R.; Kraiem, J.; Lissalde, F.; Dubois, S.; Enjalbert, N.; Monna, R.;
+Title: Crystallisation of purified metallurgical silicon
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922521
+Abstract: The crystallization of purified metallurgical Silicon often leads to multi crystalline ingots which present regions of strong compensation and an inversion of the polarity type. These effects result from the presence of different dopant atoms, donors and acceptors, in this type of Silicon and their different segregation behavior during the crystallization process. The most commonly found dopant atoms in Silicon, Boron and Phosphorous, have relatively high segregation coefficients with an important difference in their absolute value. As a result, suitable resistivities in the 0.5 to 1.0 Ωcm range are obtained in an important part of the ingot, but at a relatively high compensation ratio. This paper discusses these compensation effects, as observed on upgraded metallurgical Silicon from the PHOTOSIL project [1] and using a new crystallization process and furnace developed by CYBERSTAR and APOLLONSOLAR [2].
+Keywords: Anisotropic magnetoresistance;Coils;Crystalline materials;Crystallization;Furnaces;Heat transfer;Infrared heating;Insulation;Silicon;Water heating;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922521&isnumber=4922425

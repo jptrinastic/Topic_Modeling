@@ -1,0 +1,8 @@
+Author(s): Kambe, Mika; Takahashi, A.; Taneda, N.; Masumo, Kunio; Oyama, T.; Sato, K.;
+Title: Fabrication of A-Si:H Solar cells on high haze SnO2:F thin films
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922507
+Abstract: In this work we report on the properties of amorphous silicon (a-Si:H) p-i-n solar cells fabricated on glass substrates covered with extremely high haze fluorinedoped tin oxide (SnO2:F) transparent conductive oxide (TCO) thin films, HU-TCO. The HU-TCO shows high haze value thorough the whole optical region where a-Si:H and microcrystalline silicon (μc-Si:H) solar cells are sensitive. We demonstrate here that open-circuit voltage (Voc) and fill factor (FF) of a-Si:H solar cells fabricated on HU-TCOs does not decrease significantly compared to the cells on conventional pyramidal texture TCOs. We also demonstrate here that Voc and FF of a-Si:H solar cells depend on not only surface morphology of TCOs, but also strongly depend on thickness and deposition conditions of the solar cells.
+Keywords: Amorphous silicon;Conductive films;Fabrication;Glass;Optical films;PIN photodiodes;Photovoltaic cells;Semiconductor thin films;Tin;Ultraviolet sources;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922507&isnumber=4922425

@@ -1,0 +1,8 @@
+Author(s): Wen-Ching Sun,; Chien-Hsun Chen; Huang, Chien-Rong; Chen-Hsun Du; Wang, T.Y.; Chung-Wen Lan;
+Title: Excellent passivation structure of high efficiency multicrystalline silicon solar cells
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922434
+Abstract: The passivation effects for multicrystalline silicon solar cell with different configurations are investigated. Al2O3 and SiO2 films are used as the passivation layer in this work. They are prepared by atomic layer deposition and thermal oxidation, respectively. Using monolayer (Al2O3 or SiO2) as the passivation layer, the cell efficiency is 16.33% and 17.41%, respectively. The excellent passivation structure shows the drastic enhancement in cell efficiency of 19.09%. The quantum efficiency results show the improvement in the IR range, which explains the high energy conversion efficiency for the excellent structure.
+Keywords: Atomic layer deposition;Chemical technology;Furnaces;Passivation;Photovoltaic cells;Radiative recombination;Semiconductor films;Silicon;Substrates;Temperature;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922434&isnumber=4922425

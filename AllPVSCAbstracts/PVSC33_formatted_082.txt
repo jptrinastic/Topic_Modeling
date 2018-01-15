@@ -1,0 +1,8 @@
+Author(s): Haase, Christian; Rau, Uwe; Stiebig, Helmut;
+Title: Efficient light trapping scheme by periodic and quasi-random light trapping structures
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922513
+Abstract: Solar cells based on thin-film microcrystalline (μc-Si:H) or amorphous silicon (a-Si:H) with absorber layers in the micrometer range require highly efficient light trapping and an optimal incoupling of the entire sun spectrum. To investigate and optimize their optical properties the wave propagation in thin-film silicon solar cells is modelled in 3D solving the Maxwell equations rigorously. A periodic nanostructured texture with square based inverted pyramids is investigated as an alternative to the commonly used randomly rough texture. Different back contact designs were tested and their influence on the long wavelength light trapping was studied. A quasi-random light trapping structure that is composed of different pyramid period sizes was modelled and compared to a periodic single pyramid light trapping structure.
+Keywords: Charge carrier processes;Crystallization;Electron optics;Gratings;Optical films;Optical materials;Periodic structures;Photovoltaic cells;Semiconductor thin films;Silicon;Light Trapping;Micro Crystalline Si;Optical Properties;Periodic Structure;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922513&isnumber=4922425

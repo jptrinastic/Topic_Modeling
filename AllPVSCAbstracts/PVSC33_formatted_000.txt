@@ -1,0 +1,8 @@
+Author(s): Sadeghimakki, B.; Gharghi, Majid; Sivoththaman, S.;
+Title: Zero and one dmentional quantum- and nano- structures for advanced photovoltaics
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922431
+Abstract: In this work we present technology and characterization of nanostructures for advanced photovoltaics (PV). Fabrication, dimensional control, and surface passivation of silicon (Si) nanopillars and nanowires, as well as their detachment and further manipulation are first described. Nest, we present the polymeric layer embedment of cadmium selenide (CdSe) quantum dots. Scanning electron microscope, high resolution transmission electron microscope, and X-ray photoelectron spectroscopy are used for the structural analysis. Absorption and photoluminescent properties have been measured in the nanostructures for use in PV. Process parameter effects on the optical properties are established and discussed.
+Keywords: Fabrication;Nanostructures;Nanowires;Passivation;Photoelectron microscopy;Photovoltaic cells;Polymers;Scanning electron microscopy;Silicon;Transmission electron microscopy;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922431&isnumber=4922425

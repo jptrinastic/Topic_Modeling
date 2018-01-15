@@ -1,0 +1,8 @@
+Author(s): Malik, O.; De la Hidalga-W, F.J.; Zuniga-I, C.; Torres-J., A.; Ruiz-T, G.;
+Title: Experimental and theoretical analysis of the conversion efficiency of ITO- nSi solar cells fabricated by a low-cost spray deposition technique
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922445
+Abstract: Inversion p-n ITO-nSi heterojunctions are the most promising low-cost solar cells using mono-crystalline silicon in comparison with ITO-nSi solar cells operating as Schottky diodes. It is shown that ITO-nSi inversion solar cells fabricated on 10 Ω-cm silicon substrates present a conversion efficiency of 10.8 and 12.1% under AM0 and AM1.5 illumination conditions, respectively. Using actual experimental parameters, our theoretical analysis predicts an improved conversion efficiency up to 15% that can be achieved practically using low resistivity silicon substrates.
+Keywords: Conductivity;Fabrication;Heterojunctions;Indium tin oxide;Optical films;Photovoltaic cells;Semiconductor films;Silicon;Spraying;Substrates;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922445&isnumber=4922425

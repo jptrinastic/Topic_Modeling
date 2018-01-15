@@ -1,0 +1,8 @@
+Author(s): Woo-Jun Yoon; Berger, P.R.;
+Title: Surface modification to the indium tin oxide (ITO) anodes through plasma oxidized silver for efficient P3HT:PCBM (1:0.8) bulk heterojunction photovoltaic devices
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-5
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922490
+Abstract: Since reporting an improved power conversion efficiency via an increased short-circuit current density with a high fill factor of ∼63% for a poly(3-hexylthiophene) (P3HT) and [6,6]-phenyl C61 butyric acid methyl ester (PCBM) bulk heterojunction PV devices using surface modifications to the indium tin oxide (ITO) anodes through plasma oxidized silver [Appl. Phys. Lett. 92, 2008, p. 013306], the properties of this thin AgOx were investigated to shed light on the physical mechanism for the measured enhancement. Here, we present the physical, chemical and optical properties of this modified ITO anode using various surface characterization techniques. In particular, we elucidate the role of plasma oxidized thin islanded Ag in the interfacial energy level and its chemical bonding interfacial morphology using the Kelvin-prove technique and X-ray photoelectron spectroscopy
+Keywords: Anodes;Heterojunctions;Indium tin oxide;Photovoltaic systems;Plasma density;Plasma devices;Plasma measurements;Silver;Solar power generation;Surface morphology;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922490&isnumber=4922425

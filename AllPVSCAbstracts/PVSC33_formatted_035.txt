@@ -1,0 +1,8 @@
+Author(s): Jian Li; Jie Chen; Collins, R.W.;
+Title: Analysis of the dielectric functions of CdS and CdTe for grain size, stress, and temperature: Potentialities for on-line monitoring
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922466
+Abstract: Real time spectroscopic ellipsometry (RTSE) has been applied to study the magnetron sputter deposition of polycrystalline CdTe and CdS thin films on crystalline silicon wafer substrates held at different temperatures (Ts). The broadening parameters Γn of the dielectric function critical points (CPs) measured at room temperature for the CdS and CdTe films show variations with Ts, from which the group speeds of the band gap excitations and the polycrystalline grain sizes can be consistently estimated. The shifts in the room temperature CP energies En relative to those of single crystals provide information on strain in the CdTe and CdS films. Because both En and Γn vary approximately linearly with measurement temperature Tm in a known way, grain size and film stress can be deduced at any known value of Tm. From the accumulated results of this investigation, a comprehensive database is available for a spatially scanning SE system for on-line monitoring of stack thickness, structure, grain size, and stress in CdTe solar cell fabrication.
+Keywords: Dielectric substrates;Dielectric thin films;Grain size;Magnetic analysis;Monitoring;Size measurement;Spectroscopy;Sputtering;Stress;Temperature measurement;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922466&isnumber=4922425

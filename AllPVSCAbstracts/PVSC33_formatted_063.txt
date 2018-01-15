@@ -1,0 +1,8 @@
+Author(s): Sampath, W.S.; Kohli, S.; Enzenroth, R.A.; Barth, K.L.; Manivannan, V.; Hilfiker, James; McCurdy, P.R.; Barricklow, K.; Noronha, P.;
+Title: Advances in continuous, in-line processing of stable CdS/CdTe devices
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922494
+Abstract: A continuous, in-line process suitable for high throughput manufacturing of CdS/CdTe photovoltaic devices has been demonstrated. Utilizing this process, devices with efficiencies of 13% has been fabricated with a low iron soda lime glass (3″×3″) with ant-reflection coatings. The process has been extended to large area devices (16″ ×16″ substrate size). After CdCl2 treatment, devices showed Voc ≫ 700 mV and Jsc ≫ 20 mA/cm2. This performance is similar to the performance of small area devices which showed good stability. Also we have employed Spectroscopic Ellipsometry (SE) as a nondestructive tool to characterize CdS/CdTe heterojunction specifically studying the effects of chemical treatment on the optical properties of the thin-film layers.
+Keywords: Coatings;Glass;Iron;Manufacturing processes;Photovoltaic systems;Solar power generation;Spectroscopy;Stability;Substrates;Throughput;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922494&isnumber=4922425

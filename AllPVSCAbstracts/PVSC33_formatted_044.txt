@@ -1,0 +1,8 @@
+Author(s): Li, Z.Q.; Xiao, Y.G.; Lestrade, M.; Li, Z.M.Simon;
+Title: 2D-simulation of inverted metamorphic GaInP/GaAs/GaInAs triple junction solar cell
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-6
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922475
+Abstract: Two-dimensional (2D) simulation has been performed on the inverted metamorphic GaInP/GaAs/InGaAs triple-junction (TJ) solar cells based on the Crosslight APSYS with improved tunnel junction model. The APSYS simulator solves semiconductor drift-diffusion equations by finite-element method. Optic propagation in solar cell device is modeled with transfer matrix method and/or ray tracing. The carrier photo-generation is calculated using experimental absorption coefficients. SRH, Auger, radiative and surface/interface recombination are all taken into account. The 2D simulation gives detailed information on the band diagram, optical power absorption and carrier transport etc. The simulated results of one-sun I–V curve with Voc, Isc and efficiency are in good agreement with the experimental. The results are further discussed with respect to current matching, multi-sun concentration and the top contact grid spacing.
+Keywords: Absorption;Equations;Finite element methods;Gallium arsenide;Indium gallium arsenide;Optical devices;Optical propagation;Photovoltaic cells;Radiative recombination;Ray tracing;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922475&isnumber=4922425

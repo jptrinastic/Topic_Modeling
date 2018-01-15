@@ -1,0 +1,8 @@
+Author(s): Svrcek, Vladimir; Fujiwara, Hiroyuki; Kondo, M.;
+Title: Transport and stability of doped freestanding silicon nanocrystals and MEH-PPV blends
+Misc_Pub_Info: Photovoltaic Specialists Conference, 2008. PVSC '08. 33rd IEEE , vol., no., pp.1-4
+Start_Date: 05-11-2008
+DOI: 10.1109/PVSC.2008.4922459
+Abstract: We report on optoelectrical properties of freestanding silicon nanocrystals (Si-ncs) in poly[methoxy-ethylexyloxy-phenylenevinilene] (MEH-PPV). Electrochemical etching and pulverization of fine porous silicon films are used to prepare surfactant free boron- and phosphorous-doped Si-ncs with the same size distribution. We studied doped-Si-ncs/MEH-PPV blends with high concentrations of the Si-ncs in the matrix. A considerable increase of dark conductivity is observed when doped Si-ncs are introduced in the polymer. We find that the studied blends show a higher stability compared to pure polymer films. The results obtained can be explained by the reduction of the formation of carbonyl type groups in MEH-PPV and of the oxygen diffusion inside of the polymer matrix. Improved stability of the composites makes them as an attractive material for no-toxic solar cell production.
+Keywords: Composite materials;Conductivity;Etching;Nanocrystals;Photovoltaic cells;Polymer films;Production;Semiconductor films;Silicon;Stability;
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4922459&isnumber=4922425
