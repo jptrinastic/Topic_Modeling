@@ -10,12 +10,14 @@ Please refer to the included Jupyter notebook for a general tutorial about how t
 
 Libraries used to build this package:
 numpy 1.13.3
+
 pandas 0.22.0
 scipy 1.0.0
 matplotlib 2.1.0
 sklearn 0.19.1
 nltk 3.2.5
 re 2.2.1
+python-rake (https://pypi.org/project/python-rake/)
 
 ## Authors
 
